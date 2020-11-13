@@ -19,4 +19,4 @@
 SCRUM team work - Final proyect at SoyHenry<br/>
 📩 For more info [click here!](https://github.com/SantiagoLesait/E-commerce-Henry)
 
-![alt text](https://raw.githubusercontent.com/SantiagoLesait/images/main/0.jpg?token=AQM3L5HYITWMN3NJ4ZMMBES7V3MRW "Logo Title Text 1")
+![alt text](https://github.com/SantiagoLesait/images/blob/main/0.png?raw=true "Imagen del E-commerce")
