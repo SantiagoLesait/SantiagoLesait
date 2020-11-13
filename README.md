@@ -1,16 +1,22 @@
-### Hi there 👋
+I'm Santiago<br/>
+👾My principal tecnical knowledges are:
+- [x] HTML
+- [x] CSS
+- [x] Bootstrap
+- [x] Javascript Vainilla
+- [x] React.js
+- [x] Redux.js
+- [x] Node.js
+- [x] PostgreSQL
+- [x] Sequalize
+- [x] Mongoose
+- [x] MongoDB
+ 
 
-<!--
-**SantiagoLesait/SantiagoLesait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+⚡ E-commerce!:
+SCRUM team work - Final proyect at SoyHenry<br/>
+📩 For more info [click here!](https://github.com/SantiagoLesait/E-commerce-Henry)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![alt text](https://raw.githubusercontent.com/SantiagoLesait/images/main/0.jpg?token=AQM3L5HYITWMN3NJ4ZMMBES7V3MRW "Logo Title Text 1")
