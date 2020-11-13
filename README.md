@@ -1,4 +1,4 @@
-I'm Santiago<br/>
+### Hi, I'm Santiago<br/>
 👾My principal tecnical knowledges are:
 - [x] HTML
 - [x] CSS
