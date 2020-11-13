@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-### ⚡ E-commerce!:
+### ⚡ E-commerce:
 #### SCRUM team work - Final proyect at SoyHenry<br/>
 #### 📩 For more info [click here!](https://github.com/SantiagoLesait/E-commerce-Henry)
 
