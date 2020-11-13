@@ -1,16 +1,16 @@
 # Hi, I'm Santiago<br/>
 ## 👾My principal tecnical knowledges are:
-### - [x] HTML
-### - [x] CSS
-### - [x] Bootstrap
-### - [x] Javascript Vainilla
-### - [x] React.js
-### - [x] Redux.js
-### - [x] Node.js
-### - [x] PostgreSQL
-### - [x] Sequalize
-### - [x] Mongoose
-### - [x] MongoDB
+### - HTML
+### - CSS
+### - Bootstrap
+### - Javascript Vainilla
+### - React.js
+### - Redux.js
+### - Node.js
+### - PostgreSQL
+### - Sequalize
+### - Mongoose
+### - MongoDB
  
 
 <br/>
