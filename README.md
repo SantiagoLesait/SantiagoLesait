@@ -1,5 +1,5 @@
 # Hi, I'm Santiago<br/>
-## 👾My principal tecnical knowledges are:
+## 👾My main technical knowledge are:
 ### - HTML
 ### - CSS
 ### - Bootstrap
