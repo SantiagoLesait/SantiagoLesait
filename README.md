@@ -21,3 +21,9 @@
 #### 📩 For more info [click here!](https://github.com/SantiagoLesait/Ecommerce-ft05-Group3)
 
 ![alt text](https://github.com/SantiagoLesait/images/blob/main/0.png?raw=true "Imagen del E-commerce")
+
+### ⚡ Virtual Campus:
+#### Extra practices at SoyHenry, with new technologies!<br/>
+#### 📩 For more info [click here!](https://github.com/SantiagoLesait/HenryApp)
+
+![alt text](https://github.com/SantiagoLesait/images/blob/main/Welcome.png?raw=true)
